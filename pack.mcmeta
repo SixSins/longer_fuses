@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 5,
+        "description": "Extends creepers' fuse times to make them easier to kill before they explode."
+    }
+}
